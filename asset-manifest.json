@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/COIN-X/static/css/main.298db4ba.css",
+    "main.js": "/COIN-X/static/js/main.9a585591.js",
+    "static/js/787.954705a9.chunk.js": "/COIN-X/static/js/787.954705a9.chunk.js",
+    "index.html": "/COIN-X/index.html",
+    "main.298db4ba.css.map": "/COIN-X/static/css/main.298db4ba.css.map",
+    "main.9a585591.js.map": "/COIN-X/static/js/main.9a585591.js.map",
+    "787.954705a9.chunk.js.map": "/COIN-X/static/js/787.954705a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.298db4ba.css",
+    "static/js/main.9a585591.js"
+  ]
+}
